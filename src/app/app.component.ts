@@ -12,6 +12,7 @@ export class AppComponent {
   registrado=false;
   nombre:string="";
   apellido:string="";
+  cargo:string="";
   //entradas:object[];
   entradas: { titulo: string }[]; // Especificamos que es un array de objetos con la propiedad 'titulo'
 
