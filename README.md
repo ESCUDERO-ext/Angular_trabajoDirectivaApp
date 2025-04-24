@@ -1,4 +1,5 @@
 # TrabajoDirectivaApp
+![image](https://github.com/user-attachments/assets/6f54d58f-fece-48db-9858-4c3d45ff6c6b)
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.8.
 
